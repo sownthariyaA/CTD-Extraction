@@ -1,5 +1,5 @@
 # CTD-Extraction
-    ctd-analysis/
+ctd-analysis/
 │
 ├── data/
 │   └── raw/                # Raw CTD files (Excel, .txt, or .csv formats)
@@ -15,3 +15,4 @@
 │
 ├── README.md
 └── requirements.txt                # Python package dependencies
+
